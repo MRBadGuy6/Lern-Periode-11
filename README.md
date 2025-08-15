@@ -4,4 +4,6 @@ Mein letztes Schuljahr hier an der BBB und ich habe schon grossen Fortschritt ge
 
 # 15.8.25
 
-- [ ] Mein C# Kentnisse verbessern indem ich Tutorials bearbeite
+- [x] Mein C# Kentnisse verbessern indem ich Tutorials bearbeite
+
+Heute habe ich micht nur mit C# befasst. Es ist schon mehr als 5 Wochen her seit ich zuletzt programmiert habe und ich habe das Gefühl ich hätte alles vergessen. Ich habe eine Webseite gefunden die Stück für Stück erklärt was genau C# ist. Ich habe bis jetzt den grössten Teil davon gelesen und mache gerade ein Paar Übungen. Das wäre es für heute. 
