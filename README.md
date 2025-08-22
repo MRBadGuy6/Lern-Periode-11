@@ -7,3 +7,7 @@ Mein letztes Schuljahr hier an der BBB und ich habe schon grossen Fortschritt ge
 - [x] Mein C# Kentnisse verbessern indem ich Tutorials bearbeite
 
 Heute habe ich micht nur mit C# befasst. Es ist schon mehr als 5 Wochen her seit ich zuletzt programmiert habe und ich habe das Gefühl ich hätte alles vergessen. Ich habe eine Webseite gefunden die Stück für Stück erklärt was genau C# ist. Ich habe bis jetzt den grössten Teil davon gelesen und mache gerade ein Paar Übungen. Das wäre es für heute. 
+
+# 22.8.25
+
+Nun ich habe nicht an C# gearbeitet. Ich habe jetzt die letzten 4h an meiner Webseite gearbeitet und sie ist immer noch nicht fertig. Ich muss die Containers noch anpassen den sieht nicht gut genug aus. Ich habe die Seiten visuel verbessert mit einbisschen hilfe von der Ki da ich mir nicht sicher war welche Farben passen würden. Auch muss ich mein Bewerbungsdossier von Mahara auf meine Seite übertragen. Alles richtig zu formatieren ist sehr nervig aber ich schaffe das schon noch. Ich hoffe ich werde dieses Wochenende fertig damit ich mich mit dieser Webseite bewerben kann. 
