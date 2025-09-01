@@ -11,3 +11,8 @@ Heute habe ich micht nur mit C# befasst. Es ist schon mehr als 5 Wochen her seit
 # 22.8.25
 
 Nun ich habe nicht an C# gearbeitet. Ich habe jetzt die letzten 4h an meiner Webseite gearbeitet und sie ist immer noch nicht fertig. Ich muss die Containers noch anpassen den sieht nicht gut genug aus. Ich habe die Seiten visuel verbessert mit einbisschen hilfe von der Ki da ich mir nicht sicher war welche Farben passen würden. Auch muss ich mein Bewerbungsdossier von Mahara auf meine Seite übertragen. Alles richtig zu formatieren ist sehr nervig aber ich schaffe das schon noch. Ich hoffe ich werde dieses Wochenende fertig damit ich mich mit dieser Webseite bewerben kann. 
+
+
+# 29.8.25 
+
+Nun mir ist es heute gelungen einen Taschenrechner zu Programmieren. Ich habe dafür Switch Cases verwendet. War an sich nicht schwer. Das einzige was mir Mühe gemacht hat war die Implementation das das Programm nicht von alleine sich beendet und auch noch Abfangen von Fehlern. Bin stolz auf mich. Danach habe ich mich noch an zwei Stellen beworben für das Praktikum und das war schon der ganze Nachmittag. 
