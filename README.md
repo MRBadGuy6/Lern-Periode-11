@@ -27,6 +27,8 @@ Nun wie sich sicher gehört haben versuche ich ab jetzt keine KI zu verwenden be
 
 # 19.5.25
 
-- [ ] Taschenrecher Programm funktionen einbauen
-- [ ] Aufgabe 2 LB Modul 324
-- [ ] Nach weiteren Praktikumsstellen suchen/Bewerbungsbrief schreiben
+- [x] Taschenrecher Programm funktionen einbauen
+- [x] Aufgabe 2 LB Modul 324
+- [x] Nach weiteren Praktikumsstellen suchen/Bewerbungsbrief schreiben
+
+Heute habe ich wieder an meinem Taschenrecher gearbeitet. Auch ohne KI. Leider bin ich nicht fertig geworden. Aber dafür konnte ich viele Fehler beheben und neue Funktionen einbauen. Fehler werden abgefangen und die Schleife wird erst dann beendet, wenn man das Richtige eingibt. Zu Modul 324 gibt es nicht vieles zu sagen. Ich hatte keine Probleme nur das ich immer die Commands überprüfen musste damit ich nichts falsches Eingebe. Allerdings habe ich keine Praktikumsstellen gefunden. Entweder waren die Anzeigen alt oder vergeben. Frustrierend. Alles in allem kann ich sagen das ich vieles gelernt habe bei meinem Taschenrechner was mir sicher in der Zukunft helfen würde. 
