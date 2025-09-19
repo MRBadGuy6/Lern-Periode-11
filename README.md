@@ -24,3 +24,9 @@ Es ist eine Enttäuschung, wenn man seine Mails überprüft, und das Erste, was 
 # 12.5.25
 
 Nun wie sich sicher gehört haben versuche ich ab jetzt keine KI zu verwenden bei meinen Projekten. Co-Pilot macht alles viel einfacher und das ist toll. Aber ich lerne nichts dabei. Momentan arbeite ich an einen Taschenrechner. Ja ich habe schon einen Programmiert aber mithilfe von Co-Pilot. Co-Pilot hat mir schon die Lösung gezeigt was nicht gerade hilfreich war. Momentan ist es mir gelungen einen UI zu erstellen und die Operatoren kann man mit den Dwitch Cases auswählen. Die einzige Hürde die ich hatte war String in Int umwandeln. Ich wusste nicht wie und wo ich es einbauen sollte. Nach einbisschen recherchere habe ich es ganz am anfang eingebaut. Das Programm ist noch nicht perfekt aber sehr gut für den Anfang. Hoffentlich kann ich es nächsten Freitag beenden. 
+
+# 19.5.25
+
+- [ ] Taschenrecher Programm funktionen einbauen
+- [ ] Aufgabe 2 LB Modul 324
+- [ ] Nach weiteren Praktikumsstellen suchen/Bewerbungsbrief schreiben
