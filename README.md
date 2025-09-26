@@ -35,7 +35,7 @@ Heute habe ich wieder an meinem Taschenrecher gearbeitet. Auch ohne KI. Leider b
 
 # 26.9.25
 
-- [x]Taschenrechner Bugs fixen, fertig erstellen
+- [x] Taschenrechner Bugs fixen, fertig erstellen
 - [x] Weiteren Bewerbungsbrief schreiben und verschicken
 - [x] LA_335_6412
 
